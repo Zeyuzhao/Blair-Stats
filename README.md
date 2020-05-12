@@ -1,5 +1,5 @@
 # Blair-Stats
-Notebooks for MBHS Magnet Statistics Class. 
+Data Science notebooks for MBHS Magnet Statistics Class. 
 
 I used `Pandas` extensively in this class, and also learned to generate nifty charts with `Seaborn`.
 
