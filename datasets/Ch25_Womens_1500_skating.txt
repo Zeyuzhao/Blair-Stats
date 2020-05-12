@@ -1,0 +1,19 @@
+I Name	I country	I time	O Name	O country	O time
+OLTEAN Daniela 	Romania ROM 	129.24	NEMOTO Nami 	Japan JPN 	122.34
+ZHANG Xiaolei 	China CHN 	125.75	LAMB Maria 	United States USA 	122.12
+ABRAMOVA Yekaterina 	Russian Fed. RUS 	121.63	NOH Seon Yeong 	Korea KOR 	123.35
+REMPEL Shannon 	Canada CAN 	122.24	TIMMER Marianne 	Netherlands NED 	120.45
+LEE Ju-Youn 	Korea KOR 	120.85	MARRA Adelia 	Italy ITA 	123.07
+ROKITA Anna Natalia 	Austria AUT 	122.19	OPITZ Lucille 	Germany GER 	122.75
+YAKSHINA Valentina 	Russian Fed. RUS 	122.15	HAUGLI Maren 	Norway NOR 	121.22
+BJELKEVIK Hedvig 	Norway NOR 	122.16	WOJCICKA Katarzyna 	Poland POL 	119.96
+ISHINO Eriko 	Japan JPN 	121.85	BJELKEVIK Annette 	Norway NOR 	121.03
+RANEY Catherine 	United States USA 	121.17	LOBYSHEVA Yekaterina 	Russian Fed. RUS 	118.87
+OTSU Hiromi 	Japan JPN 	124.77	JI Jia 	China CHN 	121.85
+SIMIONATO Chiara 	Italy ITA 	118.76	WANG Fei 	China CHN 	120.13
+ANSCHUETZ THOMS Daniela 	Germany GER 	119.74	van DEUTEKOM Paulien 	Netherlands NED 	120.15
+BARYSHEVA Varvara 	Russian Fed. RUS 	121.6	GROVES Kristina 	Canada CAN 	116.74
+GROENEWOLD Renate 	Netherlands NED 	119.33	NESBITT Christine 	Canada CAN 	119.15
+RODRIGUEZ Jennifer 	United States USA 	119.3	KLASSEN Cindy 	Canada CAN 	115.27
+FRIESINGER Anni 	Germany GER 	117.31	TABATA Maki 	Japan JPN 	120.77
+WUST Ireen 	Netherlands NED 	116.9			

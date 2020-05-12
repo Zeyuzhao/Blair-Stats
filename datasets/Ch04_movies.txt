@@ -1,0 +1,123 @@
+Title	Budget ($)	Run Time (minutes)
+White Noise	30000000	101
+Coach Carter	45000000	136
+Elektra	65000000	100
+Racing Stripes	30000000	110
+Assault on Precinct 13	30000000	109
+Are We There Yet?	20000000	94
+Alone in the Dark	20000000	96
+Indigo	25000000	105
+Boogeyman	20000000	88
+The Wedding Date	40000000	90
+Hitch	55000000	113
+Pooh's Heffalump Movie	20000000	68
+Because of Winn-Dixie	15000000	106
+Constantine	75000000	122
+Son of the Mask	100000000	86
+Cursed	35000000	105
+Man of the House	50000000	100
+Be Cool	75000000	150
+The Jacket	28500000	103
+The Pacifier	56000000	97
+Hostage	75000000	108
+Robots	80000000	89
+The Upside of Anger ‡	12000000	117
+Ice Princess	25000000	99
+The Ring Two	50000000	111
+Miss Congeniality 2: Armed and Fabulous	60000000	115
+Guess Who	35000000	103
+Beauty Shop	25000000	105
+Sin City	40000000	126
+Fever Pitch	40000000	103
+Kung Fu Hustle ‡	20000000	99
+Sahara	130000000	123
+The Amityville Horror	18500000	89
+The Interpreter	90000000	118
+King's Ransom	25000000	98
+A Lot Like Love	25000000	107
+The Hitchhiker's Guide to the Galaxy	45000000	103
+XXX: State of the Union	60000000	100
+Crash	6500000	107
+House of Wax	35000000	113
+Kingdom of Heaven	110000000	144
+Kicking and Screaming	45000000	90
+Mindhunters	27000000	106
+Monster-in-Law	45000000	95
+Star Wars Episode III: Revenge of the Sith	115000000	140
+The Longest Yard	82000000	113
+Madagascar	75000000	86
+The Sisterhood of the Traveling Pants	25000000	145
+Cinderella Man	88000000	144
+Lords of Dogtown	25000000	107
+Batman Begins	150000000	140
+The Perfect Man	10000000	101
+Herbie: Fully Loaded	50000000	95
+Bewitched	80000000	100
+Land of the Dead	15000000	97
+War of the Worlds	132000000	116
+Rebound	45000000	103
+Dark Water	60000000	105
+Fantastic Four	87500000	123
+Charlie and the Chocolate Factory	150000000	115
+Wedding Crashers	40000000	113
+Bad News Bears	35000000	113
+Hustle & Flow	2800000	115
+The Island	120000000	136
+Must Love Dogs	35000000	98
+Sky High	60000000	102
+Stealth	138000000	121
+Deuce Bigalow: European Gigolo	22000000	83
+Four Brothers	30000000	109
+The Skeleton Key	40000000	104
+The Great Raid	20000000	133
+The 40-Year-Old Virgin	26000000	111
+Valiant	35000000	76
+The Brothers Grimm	80000000	119
+The Cave	30000000	97
+Undiscovered	27000000	97
+The Constant Gardener	25500000	129
+Transporter 2	32000000	87
+The Exorcism of Emily Rose	18000000	114
+The Man	20000000	83
+An Unfinished Life ‡	30000000	108
+Corpse Bride ‡	30000000	77
+Cry Wolf	1000000	91
+Just Like Heaven	58000000	95
+Lord of War	42000000	121
+Flightplan	55000000	93
+A History of Violence ‡	32000000	96
+Roll Bounce	10000000	106
+Capote ‡	7000000	114
+Into the Blue	50000000	109
+Serenity	39000000	119
+Wallace & Gromit: The Curse of the Were-Rabbit	30000000	85
+Waiting...	1125000	93
+Domino	50000000	133
+Elizabethtown	54000000	133
+The Fog	18000000	101
+Doom	70000000	113
+North Country	30000000	123
+The Weather Man	20000000	101
+Chicken Little	60000000	80
+Jarhead	72000000	115
+"Good Night, and Good Luck ‡"	7000000	93
+Get Rich or Die Tryin'	40000000	116
+Pride and Prejudice ‡	28000000	129
+Harry Potter and the Goblet of Fire	150000000	157
+Walk the Line	28000000	81
+Syriana ‡	50000000	126
+"Yours, Mine and Ours"	45000000	90
+The Libertine ‡	22000000	130
+Æon Flux	55000000	95
+Transamerica ‡	1000000	104
+Brokeback Mountain ‡	13900000	134
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"	180000000	140
+Memoirs of a Geisha ‡	85000000	145
+King Kong	23000000	187
+The Family Stone	18000000	103
+Hoodwinked ‡	17500000	80
+Munich ‡	75000000	164
+The New World ‡	30000000	135
+The Matador ‡	1100000	97
+
+Note:  The ‡ denotes a limited release that was then released on a large scale		

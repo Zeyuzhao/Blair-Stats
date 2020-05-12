@@ -1,0 +1,7 @@
+Education	Race	Counts
+HS	Black	1598
+HS	Hispanic	1269
+College	Black	549
+College	Hispanic	412
+Adv	Black	117
+Adv	Hispanic	99

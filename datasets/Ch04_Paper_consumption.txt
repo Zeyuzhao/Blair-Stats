@@ -1,0 +1,196 @@
+Country	GDP per capita	Paper Consumption per capita
+Comoros	600	0
+Malawi	600	1.21
+Solomon Islands	600	0.43
+Somalia	600	0.02
+Burundi	700	0.1
+"Congo, Dem Rep"	700	0.11
+Afghanistan	800	0.04
+Tanzania	800	1.73
+Guinea-Bissau	900	0.07
+Madagascar	900	0.83
+Sierra Leone	900	0.25
+Yemen	900	2.68
+Djibouti	1000	11.41
+Eritrea	1000	0.34
+Ethiopia	1000	0.42
+Liberia	1000	0.28
+Niger	1000	0.98
+Zambia	1000	0.67
+Benin	1100	0.75
+Central African Rep	1100	0.18
+Kenya	1200	7.09
+Mali	1200	0.44
+Sao Tome & Principe	1200	1.32
+Burkina Faso	1300	0.27
+Congo	1300	1.3
+Tajikistan	1300	0.18
+Bhutan	1400	0.37
+Nigeria	1400	1.55
+Chad	1500	0.08
+Mozambique	1500	0.59
+Nepal	1500	1.08
+Rwanda	1600	0.09
+Togo	1700	3.62
+Haiti	1800	0.92
+"Korea, Dem Peoples Rep"	1800	4.57
+Senegal	1800	2.5
+Uganda	1800	1.4
+Iraq	1900	1.44
+Gambia	2000	0.63
+Guinea	2000	0.43
+Kyrgyzstan	2000	5.67
+"Moldova, Rep"	2000	4.47
+Mongolia	2000	1.73
+Uzbekistan	2000	0.7
+Zimbabwe	2000	8.56
+Lao Peoples Dem Rep	2100	0.57
+Samoa	2100	7.85
+Bangladesh	2200	0.41
+Tonga	2200	37.41
+"Micronesia, Fed States"	2300	0.83
+Sudan	2300	0.9
+Cameroon	2400	2.48
+Saint Helena	2500	25.4
+Cambodia	2600	2.68
+Ghana	2600	2.72
+Mauritania	2600	0.72
+Pakistan	2600	5.6
+Kiribati	2700	0.5
+Papua New Guinea	2700	2.77
+Marshall Islands	2900	0.6
+Vanuatu	2900	6.15
+Bolivia	3000	4.96
+Honduras	3000	32.68
+Nicaragua	3000	5.47
+Viet Nam	3100	6.29
+India	3700	4.43
+Dominica	3800	14.51
+Georgia	3800	1.33
+Indonesia	3800	24.22
+Cuba	3900	4.72
+Grenada	3900	0.02
+Maldives	3900	3.47
+Syrian Arab Rep	4000	11.35
+Egypt	4200	12.92
+Angola	4300	0.48
+Morocco	4400	11.11
+Serbia and Montenegro	4400	29.37
+Ecuador	4500	43.39
+Jamaica	4600	9.47
+Sri Lanka	4600	12.82
+Guyana	4700	5.43
+Paraguay	4700	9.41
+El Salvador	4900	29.94
+Guatemala	4900	24.51
+Jordan	4900	23.52
+Nauru	5000	2.62
+Philippines	5000	18.01
+Armenia	5400	6.08
+Bosnia and Herzegovina	5500	2.76
+Lebanon	5500	45.73
+Albania	5600	6.34
+American Samoa	5800	2.29
+Niue	5800	12
+Cape Verde	6000	1.1
+Fiji	6100	62.45
+Peru	6400	12.39
+Venezuela	6900	23.8
+Saint Pierre and Miquelon	7000	3.83
+Suriname	7100	6.57
+Cyprus	7135	69.45
+Gabon	7200	3.89
+Azerbaijan	7300	20.45
+Myanmar	7400	1.64
+China 	7600	33.62
+Palau	7600	4.75
+Ukraine	7600	23.6
+Algeria	7700	9.44
+Belarus	7800	34.07
+Seychelles	7800	4.85
+Panama	7900	13.76
+Dominican Rep	8000	35.58
+"Macedonia, FYR"	8200	27.84
+Saint Kitts and Nevis	8200	4.88
+Belize	8400	4.71
+Colombia	8400	24.86
+Brazil	8600	45.01
+Tunisia	8600	18.66
+Antigua and Barbuda	8800	4.12
+Romania	8800	25.61
+"Iran, Islamic Rep"	8900	9.86
+Turkey	8900	34.46
+Turkmenistan	8900	0.2
+Cook Islands	9100	0
+Kazakhstan	9100	11.57
+Thailand	9100	45.4
+Bulgaria	10400	35.86
+Mexico	10600	52.76
+Uruguay	10700	21.75
+Botswana	11400	5.65
+Turks and Caicos Islands	11500	0.32
+Costa Rica	12000	75.76
+Russian Federation	12100	34.5
+Northern Mariana Islands	12500	0.19
+Chile	12600	64.13
+Libyan Arab Jamahiriya	12700	2.98
+Malaysia	12700	88.28
+South Africa 	13000	41.7
+Croatia	13200	112.56
+Mauritius 	13500	30.64
+Saudi Arabia	13800	19.61
+Oman	14100	21.86
+Poland	14100	79.85
+Argentina	15000	43.48
+New Caledonia	15000	47.48
+Lithuania	15100	44.64
+Latvia	15400	51.83
+Hungary	17300	81.98
+French Polynesia	17500	27.8
+Slovakia	17700	98.13
+Barbados	18200	27.02
+Portugal	19100	122.02
+Estonia	19600	60.45
+Trinidad and Tobago	19700	70.66
+Greenland	20000	10.28
+Malta	20300	79.68
+Bahamas	21300	16.93
+Czech Rep	21600	116.14
+Kuwait	21600	21.91
+Aruba	21800	10.37
+Slovenia	22900	113.95
+Greece	23500	76.16
+Brunei Darussalam	23600	61.33
+Andorra	24000	36.51
+"Korea, Rep"	24200	172.59
+Falkland Islands	25000	52.33
+Bahrain	25300	37.2
+New Zealand	26000	181.17
+Israel	26200	122.37
+Spain	27000	166.44
+Gibraltar	27900	6
+Qatar	29400	14.66
+Italy	29700	195.35
+France	30100	182.78
+Singapore	30900	145.89
+Faeroe Islands	31000	29.96
+Germany	31400	235.24
+United Kingdom	31400	208.44
+Sweden	31600	222.67
+Netherlands	31700	226.72
+Belgium	31800	264.36
+Finland 	32800	333.96
+Australia 	32900	185.53
+Japan	33100	249.64
+Switzerland	33600	209.67
+Austria	34100	244.64
+Canada	35200	277.38
+Denmark	37000	256.95
+Iceland	38100	123.03
+British Virgin Islands	38500	10.32
+United States	43500	312.08
+Ireland	43600	101.45
+Cayman Islands	43800	17.77
+Norway 	47800	161.06
+United Arab Emirates	49700	50.44
+Luxembourg	68800	197.95

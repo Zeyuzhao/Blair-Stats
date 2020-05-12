@@ -1,0 +1,627 @@
+Tattoo Status:Count	Hepatitis Status:Count
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+Parlor	Hepatitis C
+"Tattoo, elsewhere"	Hepatitis C
+"Tattoo, elsewhere"	Hepatitis C
+"Tattoo, elsewhere"	Hepatitis C
+"Tattoo, elsewhere"	Hepatitis C
+"Tattoo, elsewhere"	Hepatitis C
+"Tattoo, elsewhere"	Hepatitis C
+"Tattoo, elsewhere"	Hepatitis C
+"Tattoo, elsewhere"	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+None	Hepatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+Parlor	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+"Tattoo, elsewhere"	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C
+None	No Heptatitis C

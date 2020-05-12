@@ -1,0 +1,36 @@
+Country 	Percentage
+Austria	21%
+Belgium	32%
+Bulgaria	21%
+Croatia	22%
+Cyprus	4%
+Czech Rep.	44%
+Denmark	23%
+Estonia	23%
+Faroe Isl.	9%
+Finland	11%
+France	22%
+Germany	27%
+Greece	6%
+Greenland	27%
+Hungary	16%
+Iceland	13%
+Ireland	39%
+Isle of Man	39%
+Italy	27%
+Latvia	16%
+Lithuania	13%
+Malta	10%
+Netherlands	28%
+Norway	9%
+Poland	18%
+Portugal	15%
+Romania	3%
+Russia	22%
+Slovak Rep.	27%
+Slovenia	28%
+Sweden	7%
+Switzerland	40%
+Turkey	4%
+Ukraine	21%
+United Kingdom	38%

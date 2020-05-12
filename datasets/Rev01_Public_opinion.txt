@@ -1,0 +1,10 @@
+Time Period	Opinion	Percentage
+Oct-99	Favorable	49
+Oct-99	Unfavorable	16
+Oct-99	Don't Know	32
+2-Jun	Favorable	46
+2-Jun	Unfavorable	27
+2-Jun	Don't Know	23
+2-Jul	Favorable	30
+2-Jul	Unfavorable	39
+2-Jul	Don't Know	27

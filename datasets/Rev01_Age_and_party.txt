@@ -1,0 +1,13 @@
+Age	Party	Counts
+18-29 	Republican 	241
+18-29 	Democratic 	351
+18-29 	Independent 	409
+30-49	Republican 	299
+30-49	Democratic 	330
+30-49	Independent 	370
+50-64	Republican 	282
+50-64	Democratic 	341
+50-64	Independent 	375
+65+ 	Republican 	279
+65+ 	Democratic 	382
+65+ 	Independent 	343

@@ -1,0 +1,25 @@
+Exertion	Sex	Machine Type	Minutes
+Light	Men	Treadmill	14
+Light	Men	X-C skier	16
+Light	Men	Stair Climber	20
+Light	Men	Rowing machine	21
+Light	Men	Exercise rider	27
+Light	Men	Exercise bike	29
+Light	Women	Treadmill	22
+Light	Women	X-C skier	23
+Light	Women	Stair Climber	37
+Light	Women	Rowing machine	25
+Light	Women	Exercise rider	36
+Light	Women	Exercise bike	44
+Hard	Men	Treadmill	12
+Hard	Men	X-C skier	12
+Hard	Men	Stair Climber	13
+Hard	Men	Rowing machine	14
+Hard	Men	Exercise rider	22
+Hard	Men	Exercise bike	16
+Hard	Women	Treadmill	17
+Hard	Women	X-C skier	16
+Hard	Women	Stair Climber	18
+Hard	Women	Rowing machine	16
+Hard	Women	Exercise rider	24
+Hard	Women	Exercise bike	20

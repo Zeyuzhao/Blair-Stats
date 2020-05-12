@@ -1,0 +1,17 @@
+Race	Education	Count
+White	Not HS Grad	810
+Black	Not HS Grad	263
+Hispanic	Not HS Grad	1031
+Other	Not HS Grad	66
+White	HS Grad	6429
+Black	HS Grad	1598
+Hispanic	HS Grad	1269
+Other	HS Grad	341
+White	College Grad	4725
+Black	College Grad	549
+Hispanic	College Grad	412
+Other	College Grad	305
+White	Adv. Degree	1127
+Black	Adv. Degree	117
+Hispanic	Adv. Degree	99
+Other	Adv. Degree	197

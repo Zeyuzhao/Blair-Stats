@@ -1,0 +1,282 @@
+Name	Year 	Max. Winds (kt) 	Central Pressure (mb) 	Category	States Affected and Category by States 	Month 
+-----	1851	80	977 mb 	1	"TX, C1 "	Jun 
+“Great Middle Florida”	1851	100	960	3	"FL, NW3; GA, 1 "	Aug
+-----	1852	80	977	1	"FL, SW1 "	Aug
+“Great Mobile”	1852	100	961	3	"AL, 3; MS, 3; LA, 2; FL, NW1 "	Aug
+-----	1852	70	985	1	"FL, SW1 "	Sept
+“Middle Florida”	1852	90	969	2	"FL, NW2; GA, 1 "	Oct
+-----	1853	70	965	1	"GA, 1 "	Oct
+-----	1854	70	985	1	"TX, S1 "	Jun 
+“Great Carolina”	1854	100	950	3	"GA, 3; SC, 2; FL, NE1 "	Sept
+“Matagorda”	1854	90	969	2	"TX, C2 "	Sept
+“Middle Gulf Shore”	1855	110	950	3	"LA, 3; MS, 3 "	Sept
+“Last Island”	1856	130	934	4	"LA, 4 "	Aug
+“Southeastern States”	1856	90	969	2	"FL, NW2; AL, 1; GA, 1 "	Aug
+-----	1857	80	961	1	"NC, 1 "	Sept
+“New England”	1858	80	976	1	"NY, 1; CT, 1; RI, 1; MA, 1 "	Sept
+-----	1859	70	985	1	"AL, 1; FL, NW1 "	Sept
+-----	1860	110	950	3	"LA, 3; MS, 3; AL, 2 "	Aug
+-----	1860	90	969	2	"LA, 2; MS, 2; AL, 1 "	Sept
+-----	1860	90	969	2	"LA, 2 "	Oct
+“Key West”	1861	70	970	1	"FL, SW1 "	Aug
+“Equinoctial”	1861	70	985	1	"NC, 1 "	Sept
+“Expedition”	1861	70	985	1	"NC, 1 "	Nov
+“Sabine River-Lake Calcasieu”	1865	90	969	2	"LA, 2; TX, N1 "	Sept
+-----	1865	90	969	2	"FL, SW2; FL, SE1 "	Oct
+-----	1866	90	969	2	"TX, C2 "	Jul 
+-----	1867	70	985	1	"SC, 1 "	Jun 
+“Galveston”	1867	90	969	2	"LA, 2; TX, S1, N1; FL, NW1 "	Oct
+“Lower Texas Coast”	1869	90	969	2	"TX, C2 "	Aug
+-----	1869	70	985	1	"LA, 1 "	Sept
+“Eastern New England”	1869	100	963	3	"RI, 3; MA, 3; NY, 1; CT, 1 "	Sept
+“Saxby’s Gale”	1869	90	965	2	"ME, 2; MA, 1 "	Oct
+“Mobile”	1870	70	985	1	"AL, 1 "	Jul 
+“Twin Key West (I)”	1870	70	970	1	"FL, SW1, SE1 "	Oct
+“Twin Key West (II)”	1870	80	977	1	"FL, SW1 "	Oct
+-----	1871	100	955	3	"FL, SE3, NE1, NW1 "	Aug
+-----	1871	90	965	2	"FL, SE2, NE1 "	Aug
+-----	1871	70	985	1	"FL, NW1 "	Sept
+-----	1873	70	985	1	"FL, NW1 "	Sept
+-----	1873	100	959	3	"FL, SW3, SE2, NE1 "	Oct
+-----	1874	70	985	1	"FL, NW1; SC, 1; NC, 1 "	Sept
+-----	1875	100	960	3	"TX, C3, S2 "	Sept
+-----	1876	80	980	1	"NC, 1; VA, 1 "	Sept
+-----	1876	90	973	2	"FL, SW2, SE1 "	Oct
+-----	1877	70	985	1	"LA, 1; FL, NW1 "	Sept
+-----	1877	100	960	3	"FL, NW3; GA, 1 "	Oct
+-----	1878	90	970	2	"FL, SW2, NE1; SC, 1; GA, 1 "	Sept
+-----	1878	90	963	2	"NC, 2; VA, 1; MD, 1; DE, 1; NJ, 1; PA, 1 "	Oct
+-----	1879	100	971	3	"NC, 3; VA, 2 "	Aug
+-----	1879	90	964	2	"TX, N2; LA, 2 "	Aug
+-----	1879	110	950	3	"LA, 3 "	Sept
+-----	1880	110	931	3	"TX, S3 "	Aug
+-----	1880	90	972	2	"FL, SE2, NE1, NW1 "	Aug
+-----	1880	70	987	1	"NC, 1 "	Sept
+-----	1880	70	985	1	"FL, NW1 "	Oct
+-----	1881	90	970	2	"GA, 2; SC, 1 "	Aug
+-----	1881	90	975	2	"NC, 2 "	Sept
+-----	1882	100	949	3	"FL, NW3; AL, 1 "	Sept
+-----	1882	90	969	2	"LA, 2; TX, N1 "	Sept
+-----	1882	70	985	1	"FL, NW1 "	Oct
+-----	1883	90	965	2	"NC, 2; SC, 1 "	Sept
+-----	1885	100	953	3	"SC, 3; NC, 2; GA, 1; FL, NE1 "	Aug
+-----	1886	85	973	2	"TX, N2; LA, 2 "	Jun 
+-----	1886	85	973	2	"FL, NW2; GA, 1 "	Jun 
+-----	1886	85	973	2	"FL, NW2 "	Jun 
+-----	1886	70	985	1	"FL, NW1 "	Jul 
+“Indianola”	1886	135	925	4	"TX, C4 "	Aug
+-----	1886	80	973	1	"TX, S1, C1 "	Sept
+-----	1886	105	955	3	"LA, 3; TX, N2 "	Oct
+-----	1887	75	981	1	"FL, NW1 "	Jul 
+-----	1887	65	946	1	"NC, 1 "	Aug
+-----	1887	85	973	2	"TX, S2 "	Sept
+-----	1887	75	981	1	"LA, 1 "	Oct
+-----	1888	70	985	1	"TX, C1 "	Jun 
+-----	1888	110	945	3	"FL, SE3, SW1; LA2 "	Aug
+-----	1888	55	985	TS 	"MA, TS "	Sept
+-----	1888	95	970	2	"FL, NW2, NE1 "	Oct
+-----	1889	70	985	1	"LA, 1 "	Sept
+-----	1891	80	977	1	"TX, C1, N1 "	Jul 
+-----	1891	70	985	1	"FL, SE1 "	Aug
+“Midnight Storm”	1893	75	986	1	"NY, 1; VA, 1 "	Aug
+“Sea Islands”	1893	100	954	3	"GA, 3; SC, 3; NC, 1; FL, NE1 "	Aug
+-----	1893	85	973	2	"LA, 2 "	Sept
+“Chenier Caminanda”	1893	115	948	4	"LA, 4; MS, 2; AL, 2 "	Oct
+-----	1893	105	955	3	"SC, 3; NC, 2; VA, 1 "	Oct
+-----	1894	90	975	2	"FL, SW2, NE1; SC, 1; VA, 1 "	Sept
+-----	1894	105	955	3	"FL, NW3; GA, 1; NY, 1; RI, 1 "	Oct
+-----	1895	65	973	1	"TX, S1 "	Aug
+-----	1896	85	973	2	"FL, NW2 "	Jul 
+-----	1896	70	985	1	"RI, 1; MA, 1 "	Sept
+-----	1896	110	960	3	"FL, NW3, NE3; GA, 2; SC, 1; NC, 1; VA, 1 "	Sept
+-----	1897	75	981	1	"LA, 1; TX, N1 "	Sept
+-----	1898	70	985	1	"FL, NW1 "	Aug
+-----	1898	75	980	1	"GA, 1; SC, 1 "	Aug
+-----	1898	115	938	4	"GA, 4; FL, NE2 "	Oct
+-----	1899	85	979	2	"FL, NW2 "	Aug
+-----	1899	105	945	3	"NC, 3 "	Aug
+-----	1899	95	955	2	"NC, 2; SC, 2 "	Oct
+“Galveston”	1900	125	936	4	"TX, N4 "	Sept
+-----	1901	70	983	1	"NC, 1 "	Jul 
+-----	1901	80	973	1	"LA, 1; MS, 1; AL, 1 "	Aug
+-----	1903	80	976	1	"FL, SE1, NW1 "	Sept
+-----	1903	70	990	1	"NJ, 1; DE, 1 "	Sept
+-----	1904	70	985	1	"SC, 1 "	Sept
+-----	1904	70	985	1	"FL, SE1 "	Oct
+-----	1906	75	979	1	"FL, SW1, SE1 "	Jun 
+-----	1906	80	977	1	"SC, 1; NC, 1 "	Sept
+-----	1906	95	958	2	"MS, 2; AL, 2; FL, NW2; LA, 1 "	Sept
+-----	1906	105	953	3	"FL, SW3, SE3 "	Oct
+-----	1908	55	989	TS 	"NC, TS "	May
+-----	1908	70	985	1	"NC, 1 "	Jul 
+-----	1909	85	972	2	"TX, S2 "	Jun 
+“Velasco”	1909	100	959	3	"TX, N3 "	Jul 
+-----	1909	65	955	1	"TX, S1 "	Aug
+“Grand Isle”	1909	105	952	3	"LA, 3; MS, 2 "	Sept
+-----	1909	100	957	3	"FL, SW3, SE3 "	Oct
+-----	1910	95	965	2	"TX, S2 "	Sept
+-----	1910	95	955	2	"FL, SW2 "	Oct
+-----	1911	70	985	1	"FL, NW1; AL,1 "	Aug
+-----	1911	85	972	2	"SC, 2; GA, 1 "	Aug
+-----	1912	65	988	1	"AL, 1; FL, NW1 "	Sept
+-----	1912	85	973	2	"TX, S2 "	Oct
+-----	1913	65	988	1	"TX, S1 "	Jun 
+-----	1913	75	976	1	"NC, 1 "	Sept
+-----	1913	65	989	1	"SC, 1 "	Oct
+“Galveston”	1915	---- 	945	4	"TX, N4 "	Aug
+-----	1915	---- 	988	1	"FL, NW1 "	Sept
+“New Orleans”	1915	---- 	931	4	"LA, 4 "	Sept
+-----	1916	---- 	948	3	"MS, 3; AL, 3 "	Jul 
+-----	1916	---- 	----- 	1	"MA, 1 "	Jul 
+-----	1916	---- 	980	1	"SC, 1 "	Jul 
+-----	1916	---- 	948	3	"TX, S3 "	Aug
+-----	1916	---- 	972	2	"AL, 2; FL, NW2 "	Oct
+-----	1916	---- 	----- 	1	"FL, SW1 "	Nov
+-----	1917	---- 	958	3	"FL, NW3 "	Sept
+-----	1918	---- 	955	3	"LA, 3 "	Aug
+-----	1919	---- 	927	4	"FL, SW4; TX, S4 "	Sept
+-----	1920	---- 	975	2	"LA, 2 "	Sept
+-----	1920	---- 	----- 	1	"NC, 1 "	Sept
+-----	1921	---- 	979	2	"TX, C2 "	Jun 
+“Tampa Bay”	1921	---- 	952	3	"FL, SW3, NE2 "	Oct
+-----	1923	---- 	985	1	"LA, 1 "	Oct
+-----	1924	---- 	985	1	"FL, NW1 "	Sept
+-----	1924	---- 	980	1	"FL, SW1 "	Oct
+-----	1925	---- 	----- 	1	"FL, SW1 "	Nov
+-----	1926	---- 	967	2	"FL, NE2 "	Jul 
+-----	1926	---- 	955	3	"LA, 3 "	Aug
+“Great Miami”	1926	---- 	935	4	"FL, SE4, SW3, NW3; AL, 3 "	Sept
+-----	1928	---- 	----- 	2	"FL, SE2 "	Aug
+“Lake Okeechobee”	1928	---- 	929	4	"FL, SE4, NE2; GA, 1; SC, 1 "	Sept
+-----	1929	---- 	982	1	"TX, C1 "	Jun 
+-----	1929	---- 	948	3	"FL, SE3, NW2 "	Sept
+“Freeport”	1932	---- 	941	4	"TX, N4 "	Aug
+-----	1932	---- 	979	1	"AL, 1 "	Sept
+-----	1933	---- 	975	2	"TX, S2; FL, SE1 "	Aug
+-----	1933	---- 	971	2	"NC, 2; VA, 2 "	Aug
+-----	1933	---- 	949	3	"TX, S3 "	Sept
+-----	1933	---- 	948	3	"FL, SE3 "	Sept
+-----	1933	---- 	957	3	"NC, 3 "	Sept
+-----	1934	---- 	962	3	"LA, 3 "	Jun 
+-----	1934	---- 	975	2	"TX, S2 "	Jul 
+“Labor Day”	1935	---- 	892	5	"FL, SW5, NW2 "	Sept
+-----	1935	---- 	973	2	"FL, SE2 "	Nov
+-----	1936	---- 	987	1	"TX, S1 "	Jun 
+-----	1936	---- 	964	3	"FL, NW3 "	Jul 
+-----	1936	---- 	----- 	2	"NC, 2 "	Sept
+-----	1938	---- 	985	1	"LA, 1 "	Aug
+“New England”	1938	---- 	946	3	"NY, 3; CT, 3; RI, 3; MA, 3 "	Sept
+-----	1939	---- 	985	1	"FL, SE1, NW1 "	Aug
+-----	1940	---- 	972	2	"TX, N2; LA, 2 "	Aug
+-----	1940	---- 	970	2	"GA, 2; SC, 2 "	Aug
+-----	1941	---- 	958	3	"TX, N3 "	Sept
+-----	1941	---- 	975	2	"FL, SE2, SW2, NW2 "	Oct
+-----	1942	---- 	992	1	"TX, N1 "	Aug
+-----	1942	---- 	950	3	"TX, C3 "	Aug
+-----	1943	---- 	969	2	"TX, N2 "	Jul 
+-----	1944	---- 	990	1	"NC, 1 "	Aug
+-----	1944	---- 	947	3	"NC, 3; VA, 3; NY, 3; CT, 3; RI, 3; MA, 2 "	Sept
+-----	1944	---- 	962	3	"FL, SW3, NE2 "	Oct
+-----	1945	---- 	985	1	"FL, NW1 "	Jun 
+-----	1945	---- 	967	2	"TX, C2 "	Aug
+-----	1945	---- 	951	3	"FL, SE3 "	Sept
+-----	1946	---- 	980	1	"FL, SW1 "	Oct
+-----	1947	---- 	992	1	"TX, N1 "	Aug
+-----	1947	---- 	940	4	"FL, SE4, SW2; MS, 3; LA, 3 "	Sept
+-----	1947	---- 	974	2	"GA, 2; SC, 2; FL, SE1 "	Oct
+-----	1948	---- 	987	1	"LA, 1 "	Sept
+-----	1948	---- 	963	3	"FL, SW3, SE2 "	Sept
+-----	1948	---- 	975	2	"FL, SE2 "	Oct
+-----	1949	---- 	980	1	"NC, 1 "	Aug
+-----	1949	---- 	954	3	"FL, SE3 "	Aug
+-----	1949	---- 	972	2	"TX, N2 "	Oct
+Baker	1950	---- 	980	1	"AL, 1 "	Aug
+Easy	1950	---- 	958	3	"FL, NW3 "	Sept
+King	1950	---- 	955	3	"FL, SE3 "	Oct
+Able	1952	---- 	985	1	"SC, 1 "	Aug
+Barbara	1953	---- 	987	1	"NC, 1 "	Aug
+Carol	1953	---- 	----- 	1	"ME, 1 "	Sept
+Florence	1953	---- 	985	1	"FL, NW1 "	Sept
+Carol	1954	---- 	960	3	"NY, 3; CT, 3; RI, 3; NC, 2 "	Aug
+Edna	1954	---- 	954	3	"MA, 3; ME, 1 "	Sept
+Hazel	1954	---- 	938	4	"SC, 4; NC, 4; MD, 2 "	Oct
+Connie	1955	---- 	962	3	"NC, 3; VA, 1 "	Aug
+Diane	1955	---- 	987	1	"NC, 1 "	Aug
+Ione	1955	---- 	960	3	"NC, 3 "	Sept
+Flossy	1956	---- 	975	2	"LA, 2; FL, NW1 "	Sept
+Audrey	1957	---- 	945	4	"TX, N4; LA, 4 "	Jun 
+Cindy	1959	---- 	993	1	"SC, 1 "	Jul 
+Debra	1959	---- 	984	1	"TX, N1 "	Jul 
+Gracie	1959	---- 	950	3	"SC, 3 "	Sept
+Donna	1960	---- 	930	4	"FL, SW4; NC, 3; NY, 3; FL, NE2, CT, 2; "	Sept
+Ethel	1960	---- 	981	1	"MS, 1 "	Sept
+Carla	1961	---- 	931	4	"TX, C4 "	Sept
+Cindy	1963	---- 	996	1	"TX, N1 "	Sept
+Cleo	1964	---- 	968	2	"FL, SE2 "	Aug
+Dora	1964	---- 	966	2	"FL, NE2 "	Sept
+Hilda	1964	---- 	950	3	"LA, 3 "	Oct
+Isbell	1964	---- 	974	2	"FL, SW2, SE2 "	Oct
+Betsy	1965	---- 	948	3	"FL, SE3; LA, 3 "	Sept
+Alma	1966	---- 	982	2	"FL, NW2 "	Jun 
+Inez	1966	---- 	983	1	"FL, SW1 "	Oct
+Beulah	1967	---- 	950	3	"TX, S3 "	Sept
+Gladys	1968	---- 	977	2	"FL, NW2, NE1 "	Oct
+Camille	1969	---- 	909	5	"LA, 5; MS, 5 "	Aug
+Gerda	1969	---- 	980	1	"ME, 1 "	Sept
+Celia	1970	---- 	945	3	"TX, S3 "	Aug
+Edith	1971	---- 	978	2	"LA, 2 "	Sept
+Fern	1971	---- 	979	1	"TX, C1 "	Sept
+Ginger	1971	---- 	995	1	"NC, 1 "	Sept
+Agnes	1972	---- 	980	1	"FL, NW1; NY, 1; CT, 1 "	Jun 
+Carmen	1974	---- 	952	3	"LA, 3 "	Sept
+Eloise	1975	---- 	955	3	"FL, NW3 "	Sept
+Belle	1976	---- 	980	1	"NY, 1 "	Aug
+Babe	1977	---- 	995	1	"LA, 1 "	Sept
+Bob	1979	---- 	986	1	"LA, 1 "	Jul 
+David	1979	---- 	970	2	"FL, SE2, NE2; GA, 2; SC, 2 "	Sept
+Frederic	1979	---- 	946	3	"AL, 3; MS, 3 "	Sept
+Allen	1980	100	945	3	"TX, S3 "	Aug
+Alicia	1983	100	962	3	"TX, N3 "	Aug
+Diana	1984	100	949	3	"NC, 3 "	Sept
+Bob	1985	65	1002	1	"SC, 1 "	Jul 
+Danny	1985	80	987	1	"LA, 1 "	Aug
+Elena	1985	100	959	3	"AL, 3; MS, 3; FL, NW3 "	Sept
+Gloria	1985	90	942	3	"NC, 3; NY,3; CT,2; NH,2; ME,1 "	Sept
+Juan	1985	75	971	1	"LA, 1 "	Oct
+Kate	1985	85	967	2	"FL, NW2 "	Nov
+Bonnie	1986	75	990	1	"TX, N1 "	Jun 
+Charley	1986	65	990	1	"NC, 1 "	Aug
+Floyd	1987	65	993	1	"FL, SW1 "	Oct
+Florence	1988	70	984	1	"LA, 1 "	Sept
+Chantal	1989	70	986	1	"TX, N1 "	Aug
+Hugo	1989	120	934	4	"SC, 4 "	Sept
+Jerry	1989	75	983	1	"TX, N1 "	Oct
+Bob	1991	90	962	2	"RI, 2; MA, 2; NY, 2; CT, 2 "	Aug
+Andrew	1992	145	922	5	"FL, SE5, SW4; LA, 3 "	Aug
+Emily	1993	100	960	3	"NC, 3 "	Aug
+Erin	1995	85	973	2	"FL, NW2, SE1 "	Aug
+Opal	1995	100	942	3	"FL, NW3 "	Oct
+Bertha	1996	90	974	2	"NC, 2 "	Jul 
+Fran	1996	100	954	3	"NC, 3 "	Sept
+Danny	1997	70	984	1	"LA, 1; AL, 1 "	Jul 
+Bonnie	1998	95	964	2	"NC, 2 "	Aug
+Earl	1998	70	987	1	"FL, NW1 "	Sept
+Georges	1998	90	964	2	"FL, SW2; MS, 2 "	Sept
+Bret	1999	100	951	3	"TX, S3 "	Aug
+Floyd	1999	90	956	2	"NC, 2 "	Sept
+Irene	1999	70	987	1	"FL, SW1 "	Oct
+Lili	2002	80	963	1	"LA, 1 "	Oct
+Claudette	2003	80	979	1	"TX, C1 "	Jul 
+Isabel	2003	90	957	2	"NC, 2; VA, 1 "	Sept
+Alex	2004	70	972	1	"NC, 1 "	Aug
+Charley	2004	130	941	4	"FL, SW4, SE1, NE1; SC,1; NC,1 "	Aug
+Gaston	2004	65	985	1	"SC, 1 "	Aug
+Frances	2004	90	960	2	"FL, SE2, SW1 "	Sept
+Ivan	2004	105	946	3	"AL, 3; FL, NW3 "	Sept
+Jeanne 	2004	105	950	3	"FL, SE3, SW1, NW1 "	Sept
+Cindy	2005	65	991	1	"LA, 1"	Jul
+Dennis	2005	105	946	3	"FL, NW3"	Jul
+Katrina	2005	110	920	3	"FL, SE1; LA, 3; MS, 3; AL, 1"	Aug
+Ophelia	2005	65	982	1	"NC, 1"	Sep *
+Rita	2005	100	937	3	"FL, SW1; LA, 3; TX, N2"	Sep
+Wilma	2005	105	950	3	"FL, SW3; FL, SE2"	Oct
